@@ -1,0 +1,10 @@
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\raphael.broberg\Desktop\tilpro\Calc\Calc\obj\Debug\Calc.pdb
